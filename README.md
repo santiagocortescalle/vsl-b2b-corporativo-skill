@@ -19,7 +19,7 @@ mkdir -p ~/.codex/skills
 cp -R vsl-b2b-corporativo ~/.codex/skills/
 ```
 
-Después, inicia una nueva sesión e invoca `$vsl-b2b-corporativo`, o pide ayuda para crear un VSL B2B para una agencia o productora.
+Después, inicia una nueva sesión e invoca `$vsl-b2b-corporativo`, o pide ayuda para crear un VSL B2B para una empresa creativa.
 
 ## Instalar en Claude Code
 
