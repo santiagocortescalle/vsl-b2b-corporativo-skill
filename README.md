@@ -1,6 +1,6 @@
 # VSL B2B corporativo
 
-Skill en español para ayudar a agencias y productoras a investigar el negocio comprador, construir una oferta y promesa de ventas defendibles y escribir un video sales letter para una landing. El caso principal busca agendar una llamada de diagnóstico con responsables de marketing, marca, contenido, campañas o creatividad.
+Skill en español para ayudar a agencias, productoras y estudios de diseño B2B a investigar el negocio comprador, construir una oferta y promesa de ventas defendibles y escribir un video sales letter para una landing. El caso principal busca agendar una llamada de diagnóstico con responsables de marketing, marca, contenido, campañas o creatividad.
 
 Antes del guion, el proceso entrevista al estudiante sobre su negocio y el del comprador, elige una oferta concreta y trabaja siete campos de promesa: quién califica, resultado, fricción, plazo, mecanismo, ganancia mayor y frustración profunda. También recoge casos, preguntas de compra, datos de vanidad, voz y condiciones comerciales. Ofrece tres caminos para tratar el precio: cifra o mínimo, rango orientativo, o explicación de variables sin cifra en el video.
 
@@ -41,6 +41,8 @@ El skill mostrará una ficha de decisión para corregir los hechos materiales an
 ## Material para la clase
 
 El [cuerpo de conocimiento](01-cuerpo-de-conocimiento.md) explica las decisiones detrás del framework y los puntos que aún pueden afinarse con ejemplos reales de estudiantes.
+
+El [informe de QA y tres VSL de prueba](02-qa-y-vsls.md) muestra la rúbrica, decisiones consultivas y guiones de una productora, una agencia y un estudio de diseño. Todos los negocios y datos de ese ejercicio son ficticios.
 
 ## Alcance de la evidencia
 

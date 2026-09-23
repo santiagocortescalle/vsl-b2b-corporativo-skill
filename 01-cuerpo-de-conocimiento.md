@@ -1,4 +1,4 @@
-# VSL B2B para agencias y productoras: cuerpo de conocimiento (versión 2)
+# VSL B2B para agencias, productoras y estudios de diseño: cuerpo de conocimiento (versión 2)
 
 **Estado:** marco de trabajo para la clase y el skill; ajustar con ofertas y casos reales de estudiantes.
 **Caso principal confirmado:** video en una landing para varios prospectos corporativos; conversión principal: agendar una llamada de diagnóstico.  
@@ -7,6 +7,8 @@
 ## 1. Dos personas distintas que no debemos confundir
 
 El ICP de Despega Creativo describe **al estudiante que construirá el VSL**: una agencia o productora que ya entrega bien, tiene clientes y desea llegar a cuentas mayores con un sistema comercial más sólido. No describe automáticamente **al espectador del VSL**. Cada estudiante necesita investigar al comprador de su oferta: por ejemplo, dirección de marketing, marca, comunicaciones, growth, una unidad de negocio o compras, según el servicio.
+
+El método también puede aplicarse a un estudio de diseño B2B que venda servicios a estas áreas; su alcance, pruebas y proceso de aprobación deben adaptarse al tipo de proyecto.
 
 Por eso el skill trabaja con dos fichas separadas:
 
