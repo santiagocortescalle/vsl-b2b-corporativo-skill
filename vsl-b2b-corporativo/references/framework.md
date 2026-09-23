@@ -4,12 +4,14 @@
 
 El VSL principal vive en una landing y busca una llamada de diagnóstico con un prospecto que cumple condiciones de encaje. Debe ayudar a un comprador profesional a entender, evaluar y compartir internamente la propuesta. Una versión personalizada para una cuenta concreta puede hacerse después usando la misma base, pero no es el caso principal.
 
+Parte de la ficha de oferta y promesa construida en la entrevista: negocio comprador, siete campos de la promesa, alcance, condiciones, dependencias y pruebas. Si el servicio o el resultado siguen genéricos, vuelve a diseñar la oferta antes de escribir el video. La estructura de siete campos orienta el argumento; no es un párrafo para leer literalmente.
+
 ## Seis movimientos
 
 Adapta el orden si el contexto lo justifica. No rellenes un bloque por cumplir una plantilla.
 
 1. **Reconocimiento y tesis.** Abre con una situación concreta del comprador, su consecuencia y una idea útil sobre cómo abordarla. Di pronto a quién va dirigido. La tensión debe salir de entrevistas, llamadas o conocimiento verificable, no de una provocación inventada.
-2. **Oferta y recorrido.** Explica qué servicio se ofrece, qué progreso busca y qué temas cubrirá el video. Incluye acceso temprano al CTA para quien ya tiene suficiente información.
+2. **Oferta y recorrido.** Explica la oferta elegida: para qué comprador califica, qué servicio y alcance recibe, qué progreso defendible busca y qué temas cubrirá el video. Presenta el plazo solo si se puede sostener y las condiciones están claras. Incluye acceso temprano al CTA para quien ya tiene suficiente información.
 3. **Mecanismo.** Muestra cómo se trabaja: decisiones, responsabilidades, entregables y puntos de control. La secuencia debe hacer comprensible por qué el método puede producir el resultado prometido.
 4. **Prueba.** Usa uno o dos casos pertinentes. Explica situación, restricción, decisión, contribución y resultado verificable. Muestra la evidencia cerca de la afirmación correspondiente. Cuando falten resultados públicos, usa un artefacto autorizado y describe el alcance de lo que demuestra.
 5. **Encaje, inversión y riesgo.** Expón condiciones de encaje, opción de precio elegida, variables del alcance y respuestas a preguntas reales de aprobación o ejecución. Responde con precisión, sin atacar al comprador ni a su proveedor actual.
