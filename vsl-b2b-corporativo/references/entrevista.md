@@ -2,9 +2,24 @@
 
 ## Cómo entrevistar
 
-Usa lo que ya exista en el chat, brief, sitio, caso o llamada. Pregunta por vacíos que cambian la oferta, la promesa o el guion. Haz rondas de dos a cuatro preguntas relacionadas y resume lo aprendido antes de pasar a la siguiente. Permite respuestas incompletas, pero distingue hipótesis de hechos. Si el usuario dice «no sé», ofrece una manera de investigarlo o un borrador marcado como provisional.
+Usa lo que ya exista en el chat, brief, sitio, caso o llamada. Pregunta por vacíos que cambian la oferta, la promesa o el guion. Haz rondas de dos a cuatro preguntas relacionadas y resume lo aprendido antes de pasar a la siguiente. Permite respuestas incompletas, pero distingue hipótesis de hechos. En cada ronda, detecta una decisión que pueda mejorar y ofrece una sugerencia específica para el negocio descrito.
 
 No confundas a la agencia que usa el skill con su comprador. El perfil de Despega Creativo describe al estudiante, no a todos los clientes corporativos de ese estudiante.
+
+## Cómo acompañar una decisión difícil
+
+Si el usuario dice «no sé», «no tengo eso» o vacila ante una elección, ayuda a construir la respuesta. Primero resume lo que sí se sabe y cuál es la decisión pendiente. Después ofrece dos o tres caminos viables, con una ventaja y un costo relevantes para su agencia y comprador. Recomienda uno con una razón clara y plantea la pregunta mínima que permitiría elegir o validar. Si el usuario no puede responder aún, deja una hipótesis explícita y continúa con lo que sí puede trabajarse. No repitas la misma pregunta esperando que aparezca un dato inexistente.
+
+| Si falta o genera dudas… | Sugerencia consultiva útil |
+|---|---|
+| Segmento comprador | Proponer segmentos a partir de los clientes, casos y capacidades actuales; comparar, por ejemplo, equipo de marca con producción recurrente frente a agencia que necesita un partner de ejecución. Marcar ambos como hipótesis hasta revisar ventas reales. |
+| Oferta concreta | Proponer un proyecto definido, un sistema recurrente o una fase diagnóstica según capacidad y patrón de compra. Explicar qué incluye, qué exige al cliente y qué opción es más fácil de demostrar. |
+| Resultado o plazo | Buscar un hito bajo control de la agencia, como un plan aprobado o piezas listas para revisión, y separar ese compromiso de ventas, alcance o ROI que dependen de otros factores. |
+| Caso o métrica | Ofrecer pruebas alternativas autorizadas: artefactos del proceso, fragmentos de entregables, testimonio específico o caso anónimo con contexto. Sugerir qué dato recoger en el próximo proyecto. |
+| Precio | Comparar mínimo, rango y cotización posterior según variación de alcance y tickets reales. Recomendar una vía provisional sin inventar cifras. |
+| Objeción o formato del video | Proponer preguntas tomadas de oportunidades perdidas o requisitos frecuentes de compra, y un formato acorde con los activos disponibles: portavoz, caso narrado o mezcla de ambos. Validar después con compradores reales. |
+
+Las opciones deben salir del contexto aportado. Evita listas genéricas o demasiadas alternativas por turno. Cuando una decisión material siga abierta, registra la recomendación como **propuesta**, la razón, lo que falta validar y quién decide. Mantén el impulso del trabajo sin presentar hipótesis como hechos ni fingir que la incertidumbre ya se resolvió.
 
 ## Rondas sugeridas
 
