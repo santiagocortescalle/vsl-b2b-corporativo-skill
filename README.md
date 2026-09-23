@@ -1,8 +1,8 @@
 # VSL B2B corporativo
 
-Skill en español para ayudar a agencias y productoras a entrevistar su oferta, investigar al comprador y escribir un video sales letter para una landing. El caso principal busca agendar una llamada de diagnóstico con responsables de marketing, marca, contenido, campañas o creatividad.
+Skill en español para ayudar a agencias y productoras a investigar el negocio comprador, construir una oferta y promesa de ventas defendibles y escribir un video sales letter para una landing. El caso principal busca agendar una llamada de diagnóstico con responsables de marketing, marca, contenido, campañas o creatividad.
 
-El proceso recoge casos, promesa, mecanismo, preguntas de compra, datos de vanidad, voz y condiciones comerciales antes de escribir. Ofrece tres caminos para tratar el precio: cifra o mínimo, rango orientativo, o explicación de variables sin cifra en el video.
+Antes del guion, el proceso entrevista al estudiante sobre su negocio y el del comprador, elige una oferta concreta y trabaja siete campos de promesa: quién califica, resultado, fricción, plazo, mecanismo, ganancia mayor y frustración profunda. También recoge casos, preguntas de compra, datos de vanidad, voz y condiciones comerciales. Ofrece tres caminos para tratar el precio: cifra o mínimo, rango orientativo, o explicación de variables sin cifra en el video.
 
 ## Instalar en Codex
 
@@ -32,7 +32,7 @@ Después, inicia una nueva sesión e invoca `/vsl-b2b-corporativo`. Claude Code 
 
 ## Primer uso sugerido
 
-> Quiero construir un VSL para una landing de mi agencia. Entrevístame para reunir la oferta, el comprador, mis casos, la promesa y las objeciones antes de escribir. Mi objetivo es agendar llamadas de diagnóstico.
+> Quiero construir un VSL para una landing de mi agencia. Primero ayúdame a entender el negocio comprador y a diseñar una oferta y promesa con los siete campos de tu framework. Entrevístame sobre casos, objeciones y operación antes de escribir. Mi objetivo es agendar llamadas de diagnóstico.
 
 El skill mostrará una ficha de decisión para corregir los hechos materiales antes del guion. Puede trabajar con información incompleta y dejar los vacíos visibles. No necesita que el estudiante tenga instalado otro skill de copywriting.
 

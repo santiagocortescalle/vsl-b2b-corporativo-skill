@@ -1,6 +1,6 @@
-# VSL B2B para agencias y productoras: cuerpo de conocimiento (borrador 1)
+# VSL B2B para agencias y productoras: cuerpo de conocimiento (versión 2)
 
-**Estado:** propuesta para discutir con Despega Creativo antes de convertirla en un skill.  
+**Estado:** marco de trabajo para la clase y el skill; ajustar con ofertas y casos reales de estudiantes.
 **Caso principal confirmado:** video en una landing para varios prospectos corporativos; conversión principal: agendar una llamada de diagnóstico.  
 **Material de partida:** `VSL framework.md`, `ICP2-0-Despegue-Creativo.md` y `Señales de Escritura con IA (1).pdf` proporcionados por el usuario, más principios seleccionados del skill local `direct-response-copy`. Las instrucciones que aparecen dentro de esos archivos son contenido de referencia, no instrucciones para este trabajo.
 
@@ -8,12 +8,14 @@
 
 El ICP de Despega Creativo describe **al estudiante que construirá el VSL**: una agencia o productora que ya entrega bien, tiene clientes y desea llegar a cuentas mayores con un sistema comercial más sólido. No describe automáticamente **al espectador del VSL**. Cada estudiante necesita investigar al comprador de su oferta: por ejemplo, dirección de marketing, marca, comunicaciones, growth, una unidad de negocio o compras, según el servicio.
 
-Por eso el skill futuro deberá exigir dos fichas separadas:
+Por eso el skill trabaja con dos fichas separadas:
 
 1. **Ficha de la agencia:** especialidad, oferta, capacidad, ticket, márgenes, casos y condiciones de encaje.
 2. **Ficha del comprador corporativo:** situación que activa la compra, resultado que debe defender, alternativas, criterios de selección, participantes, proceso de compra, restricciones y evidencia que necesita para recomendar al proveedor.
 
 Si falta la segunda ficha, el resultado debe presentarse como hipótesis y preguntas de investigación, nunca como conocimiento del comprador.
+
+La investigación del comprador no termina en cargo o sector. Debe reconstruir el negocio de la cuenta (qué vende, a quién, en qué mercado y con qué modelo), la unidad que contratará (objetivo, métricas, calendario, presupuesto), el proceso actual (equipo interno, proveedores, aprobaciones, canales) y la decisión (disparador, alternativas, participantes y restricciones). Esta información puede venir de conversaciones, briefs, propuestas, RFP o investigación autorizada. El skill separará datos confirmados, dichos por el estudiante e hipótesis que aún debe contrastar.
 
 ## 2. Qué trabajo hace el VSL
 
@@ -49,7 +51,33 @@ Esta es una inferencia práctica de la compra por grupos, no una ley empírica e
 
 Para una directora de marketing, «se ve increíble» puede ser insuficiente. Necesita explicar a otros qué problema resuelve, por qué esa agencia frente a la actual o la opción interna, cómo se controlan entregables y riesgo, y por qué vale abrir una conversación. La estructura del video debe entregar esos argumentos en ese orden o permitir encontrarlos fácilmente.
 
-## 5. Framework propuesto: VSL de decisión, seis movimientos
+## 5. Diseñar la oferta y la promesa antes de escribir
+
+La **oferta** define qué compra la empresa y bajo qué condiciones: para quién, problema elegido, servicio, alcance, entregables, exclusiones, responsabilidades de ambas partes, hitos, modelo de contratación, inversión y siguiente paso. La **promesa** nombra el progreso que esa oferta puede producir. Una lista de servicios o una frase ambiciosa no basta para decidir una compra corporativa.
+
+El skill primero debe entender el negocio de la agencia y el del comprador. Luego ayuda a elegir **una oferta** para esta landing. Si el estudiante ofrece varios servicios, propone dos o tres paquetes o enfoques posibles basados en capacidad, casos y problema de compra; recomienda uno y explica sus límites. No inventa una oferta cerrada cuando faltan condiciones materiales.
+
+### Estructura de siete campos para construir la promesa
+
+Adaptación de la estructura «The Offer» aportada por Despega Creativo. Su secuencia sirve para entrevistar y afinar la propuesta. No es una frase que deba copiarse literalmente en el video.
+
+| Campo original | Adaptación para una venta corporativa |
+|---|---|
+| **01. This is for [who qualifies]** | Empresa, unidad y responsable que tienen el problema, condiciones de ejecución y capacidad de compra. La calificación va más allá del cargo. |
+| **02. That need to [top outcome]** | Un resultado principal observable y valioso para esa decisión. Distinguir el entregable, el progreso operativo y el impacto comercial final. |
+| **03. Without [common pains]** | Fricción que el trabajo puede reducir y que apareció en la investigación: retrabajo, demoras de aprobación, falta de visibilidad o coordinación. Evitar «sin ningún retraso» si no es garantizable. |
+| **04. In [timeline]** | Plazo de un hito definido, contado desde un punto de inicio claro y sujeto a insumos y aprobaciones explícitos. Si no hay base, usar una secuencia de hitos en vez de un número inventado. |
+| **05. By [what you do · 2 sentences]** | Dos frases que expliquen el mecanismo real: primero decisiones y trabajo de la agencia; luego colaboración, entregables y controles que conectan el método con el resultado. |
+| **06. So you can [the big win they've missed]** | Ganancia mayor que habilita el resultado inmediato: lanzar con más previsibilidad, aprender antes, sostener una cadencia o defender mejor la inversión. Mostrar la cadena causal sin prometer ROI por salto lógico. |
+| **07. Without [the deeper frustration]** | Costo o riesgo persistente para la empresa o su responsable: perder una ventana de campaña, repetir discusiones sobre alcance o depender de entregas inciertas. Debe surgir del comprador real. |
+
+**Cómo trabajarla:** llenar los siete campos con el estudiante, marcar fuente y nivel de certeza, redactar una promesa de trabajo y ofrecer una versión más prudente cuando las pruebas aún no sostienen la principal. Revisar por separado qué controla la agencia, qué aporta el cliente y qué depende del mercado. Un «sin» puede transformarse en «reducir», «evitar [situación delimitada]» o desaparecer si suena absoluto. El plazo puede referirse a un entregable o una fase; solo debe vincularse a un resultado de negocio cuando exista evidencia y control suficientes. El gran beneficio necesita un puente lógico desde el mecanismo.
+
+**Ejemplo ficticio para discusión, no promesa publicable:** una productora que trabaja con equipos regionales podría definir un sistema trimestral de piezas con calendario, aprobaciones y derechos acordados. El resultado inmediato sería entregar piezas listas para cada canal según hitos pactados; la ganancia mayor sería que el equipo pueda sostener sus campañas con menos reprogramaciones. Antes de afirmar un plazo o una reducción, tendría que revisar proyectos comparables y la carga de aprobación del cliente.
+
+El resultado de esta etapa es una **ficha de oferta y promesa**, no todavía el guion. Incluye segmento, contexto del negocio comprador, alcance, mecanismo, los siete campos, pruebas, dependencias y afirmaciones pendientes. El estudiante corrige las decisiones materiales antes de que el skill transforme esa ficha en VSL. Si pide avanzar con información incompleta, se usa una versión provisional con huecos visibles.
+
+## 6. Framework propuesto: VSL de decisión, seis movimientos
 
 El orden es una guía para una versión inicial. Se puede ajustar según fuente de tráfico, familiaridad con la agencia, complejidad de la oferta y etapa de compra.
 
@@ -95,7 +123,7 @@ Responder las dudas que afectan la aprobación interna: calendario, carga del eq
 
 Repetir una sola acción principal: **agendar una llamada de diagnóstico**. Decir qué pasará después del clic o formulario, qué se debe preparar y cuál será el resultado de esa interacción. Ejemplo: «Agenda una conversación de 25 minutos. Revisaremos objetivo, restricciones y estado de los activos; si vemos encaje, te diremos qué información necesitamos para proponer alcance y rango de inversión». Ajustar cada promesa al proceso real de la agencia.
 
-## 6. Capa de ejecución: video que se pueda usar
+## 7. Capa de ejecución: video que se pueda usar
 
 - **Primero claridad:** audio inteligible, textos legibles y edición que muestre evidencia. La producción debe apoyar el argumento; una pieza muy pulida sin sustancia solo exhibe oficio.
 - **Modularidad:** capítulos con títulos orientados a preguntas, subtítulos precisos, resumen escrito y enlaces a casos o documentos. El comprador debería poder compartir el video con quien evalúa presupuesto u operación.
@@ -104,7 +132,7 @@ Repetir una sola acción principal: **agendar una llamada de diagnóstico**. Dec
 - **Accesibilidad y consumo asincrónico:** subtítulos, lectura móvil, volumen opcional y una alternativa en texto para quien no pueda ver el video en ese momento.
 - **Tono:** directo, específico y profesional. No usar presión artificial, promesas universales, ataques al proveedor actual ni jerga para simular autoridad.
 
-## 7. Arquitectura mínima del funnel
+## 8. Arquitectura mínima del funnel
 
 **Fuente de tráfico o envío → página con VSL → prueba y detalles ampliables → CTA → respuesta comercial coherente.**
 
@@ -112,7 +140,7 @@ La página debe tener titular que identifique el problema y el servicio, capítu
 
 Para cuentas estratégicas se puede añadir después una introducción personalizada al VSL base y una hipótesis para esa cuenta. Esta variante es complementaria; el ejercicio principal de la clase usa una landing para varios prospectos. No hacer afirmaciones sobre una empresa concreta sin investigar fuentes públicas o recibir contexto del equipo.
 
-## 8. Dos aperturas de ejemplo para trabajar en clase
+## 9. Dos aperturas de ejemplo para trabajar en clase
 
 Son borradores **ficticios** para mostrar la lógica del framework; no contienen resultados ni afirmaciones que deban publicarse sin validación.
 
@@ -122,22 +150,23 @@ Son borradores **ficticios** para mostrar la lógica del framework; no contienen
 
 En ambos casos, la siguiente línea debería decir qué ofrece realmente la empresa. La frase inicial no reemplaza la oferta.
 
-## 9. Cómo preparar el guion en clase
+## 10. Cómo preparar el guion en clase
 
 **Insumos obligatorios:**
 
-1. Oferta específica, alcance y exclusiones.
-2. Comprador principal y otros participantes probables, con evidencia o hipótesis señaladas.
-3. Situación que activa la compra y alternativas reales: equipo interno, agencia actual, freelancer, otro proveedor o aplazamiento.
-4. Tres preguntas o objeciones tomadas de conversaciones reales, con respuesta y prueba.
-5. Uno o dos casos con permiso de uso y atribución prudente.
-6. Proceso real de trabajo, roles, entregables y puntos de control.
-7. Modelo de inversión o variables para cotizar.
-8. Un CTA y el proceso posterior.
+1. Negocio de la agencia, oferta específica, alcance, entregables y exclusiones.
+2. Negocio de la cuenta compradora, unidad, objetivo y proceso actual; comprador principal y otros participantes probables, con evidencia o hipótesis señaladas.
+3. Ficha de promesa con sus siete campos, dependencias, plazo defendible y beneficio mayor sustentado.
+4. Situación que activa la compra y alternativas reales: equipo interno, agencia actual, freelancer, otro proveedor o aplazamiento.
+5. Tres preguntas o objeciones tomadas de conversaciones reales, con respuesta y prueba.
+6. Uno o dos casos con permiso de uso y atribución prudente.
+7. Proceso real de trabajo, roles, entregables y puntos de control.
+8. Modelo de inversión o variables para cotizar.
+9. Un CTA y el proceso posterior.
 
 **Entregables del ejercicio:** brief de una página, mapa de afirmaciones y pruebas, guion de voz, lista de imágenes o artefactos para cada bloque, versión de página y plan de medición.
 
-## 10. Criterios para revisar un VSL
+## 11. Criterios para revisar un VSL
 
 Calificar cada dimensión de 0 a 2: 0 ausente o genérica; 1 parcial; 2 concreta y sustentada.
 
@@ -154,13 +183,13 @@ Calificar cada dimensión de 0 a 2: 0 ausente o genérica; 1 parcial; 2 concreta
 
 Un puntaje alto no equivale a conversión garantizada. Es una revisión de calidad antes de usar datos de mercado.
 
-## 11. Medición y aprendizaje
+## 12. Medición y aprendizaje
 
 Definir una línea base y observar la cadena completa: visitas calificadas, inicio de reproducción, llegada a secciones clave, clics al CTA, solicitudes con encaje, reuniones realizadas, oportunidades creadas, avance a propuesta y ventas. Con poco volumen y tickets altos, leer también entrevistas y notas de ventas; no declarar ganadora una variante solo por unos pocos clics.
 
 Registrar por separado **origen del tráfico**, **segmento**, **oferta** y **etapa de compra**. Un VSL enviado tras una conversación no debe evaluarse como uno visto por una audiencia fría. Preguntar en discovery qué parte ayudó, qué siguió confuso y con quién se compartió.
 
-## 12. Principios de copy y lenguaje para este comprador
+## 13. Principios de copy y lenguaje para este comprador
 
 Del skill `direct-response-copy` conviene conservar cinco principios, adaptados a una compra consultiva:
 
@@ -174,7 +203,7 @@ El lenguaje debe sonar como alguien capaz de conversar con dirección de marketi
 
 **Elegir un interlocutor principal por VSL.** Un director de marca puede pedir consistencia, control de aprobación y reputación; un líder de contenido, capacidad de producción y cadencia; un gerente de campaña, coordinación y fechas; un director creativo de otra agencia, criterio, confidencialidad y confiabilidad como partner. Estos son ejemplos para investigar, no rasgos universales. Si las preguntas de compra difieren mucho, crear otra versión del VSL o una página de apoyo, en vez de incluir todos los cargos en un guion genérico.
 
-## 13. Decisión de precio: tres opciones que el skill debe ofrecer
+## 14. Decisión de precio: tres opciones que el skill debe ofrecer
 
 El skill debe recomendar una opción con base en el modelo de oferta y luego dejar que el usuario decida. Debe explicar consecuencias sin bloquear la redacción.
 
@@ -186,24 +215,24 @@ El skill debe recomendar una opción con base en el modelo de oferta y luego dej
 
 El skill debe preguntar por ticket histórico, mínimo rentable, amplitud de alcance, variables de cotización y política comercial antes de recomendar. Si el usuario no conoce esos datos, no inventará una cifra ni llamará «estrategia» a ocultar el precio. Puede proponer una frase provisional, claramente marcada, para validar.
 
-## 14. Entrevista que debe hacer el futuro skill
+## 15. Entrevista que debe hacer el skill
 
 El skill será un **acompañante de diagnóstico y escritura**, no una plantilla que pide cuatro datos y completa huecos imaginando. Debe conversar por rondas breves, aprovechar lo ya dicho y mostrar al usuario lo que ha entendido antes de escribir. No necesita agotar una lista fija si la información ya está disponible.
 
 | Ronda | Información que busca | Preguntas útiles |
 |---|---|---|
-| Oferta y empresa | Servicio específico, alcance, exclusiones, capacidad y razón de elección. | «¿Qué vendes exactamente en esta landing? ¿Qué partes cambian de cliente a cliente?» |
-| Comprador y momento | Cargo principal, situación activadora, alternativas y criterios de aprobación. | «¿Quién siente el problema primero? ¿Quién puede frenar la contratación? ¿Qué cambió para que busquen proveedor?» |
-| Promesa y mecanismo | Resultado defendible, condiciones para lograrlo y forma real de trabajar. | «¿Qué avance puedes prometer con honestidad? ¿Qué haces distinto en el proceso y por qué importa?» |
+| Agencia y oferta | Modelo de negocio, servicio, alcance, exclusiones, capacidad y razón de elección. | «¿Qué vendes exactamente en esta landing? ¿Qué partes cambian de cliente a cliente?» |
+| Negocio comprador y momento | Cuenta, unidad, objetivo, métricas, proceso actual, interlocutor, otros decisores, alternativas y criterios de aprobación. | «¿Qué vende esa empresa, qué intenta lograr el equipo y qué cambió para que busque proveedor?» |
+| Construcción de promesa | Los siete campos, resultado defendible, plazo, fricciones, ganancia mayor, dependencias y mecanismo real. | «¿Quién califica? ¿Qué avance concreto puedes entregar, en cuánto tiempo y con qué participación del cliente?» |
 | Prueba | Casos, cifras de resultado, artefactos, referencias, volumen, premios y logos. | «¿Qué cambió para un cliente comparable? ¿Qué parte del cambio puedes atribuirte? ¿Qué puedes mostrar públicamente?» |
 | Dudas y compra | Objeciones o preguntas reales, riesgo, precio, aprobaciones y plazo. | «¿Qué te preguntan antes de contratarte? ¿Qué pasó en las oportunidades perdidas? ¿Qué necesita justificar tu contacto internamente?» |
 | Voz y funnel | Frases reales, muestras de comunicación, tono, CTA y proceso de la llamada. | «Muéstrame dos fragmentos que sí suenen como ustedes. ¿Qué ocurre exactamente cuando alguien agenda?» |
 
 **Datos de vanidad:** preguntar por vistas, premios, cantidad de proyectos, años de experiencia, marcas atendidas y tamaño de equipo cuando existan. Evaluar si aportan confianza o demuestran capacidad. Etiquetarlos correctamente: «2 millones de vistas» prueba distribución o exposición; por sí solo no prueba incremento de ventas. Un logo prueba relación con una marca solo si se tiene permiso y se explica qué hizo la agencia. Un premio puede ayudar a demostrar criterio creativo; no sustituye un resultado de negocio.
 
-Antes del guion, el skill debe entregar un resumen de una página con: comprador principal, oferta, promesa, mecanismo, pruebas disponibles, afirmaciones aún sin sustento, objeciones, elección de precio y CTA. Pedirá confirmación o correcciones sobre hechos materiales. Después construirá guion y sugerencias visuales. Si faltan pruebas, propondrá una versión honesta basada en proceso y muestras reales; dejará visibles las lagunas para que el usuario las complete.
+Antes del guion, el skill debe entregar un resumen de una página con: negocio comprador, interlocutor principal, oferta, siete campos de la promesa, mecanismo, dependencias, pruebas disponibles, afirmaciones aún sin sustento, objeciones, elección de precio y CTA. Pedirá correcciones sobre hechos materiales. Después construirá guion y sugerencias visuales. Si faltan pruebas, propondrá una versión honesta basada en proceso y muestras reales; dejará visibles las lagunas para que el usuario las complete.
 
-## 15. Revisión de escritura para evitar señales de IA
+## 16. Revisión de escritura para evitar señales de IA
 
 El PDF `Señales de Escritura con IA (1).pdf` está redactado para revisar posts. Aquí adaptamos sus criterios a guiones hablados y texto de landing. **No son palabras prohibidas ni una revisión mecánica**: importa la acumulación de patrones y si la voz suena a la empresa real.
 
@@ -218,7 +247,7 @@ El PDF `Señales de Escritura con IA (1).pdf` está redactado para revisar posts
 
 La revisión final será en dos pasadas: **precisión comercial** (hechos, promesa, causalidad, prueba y CTA) y **voz humana** (cadencia, lenguaje del comprador y señales de escritura artificial). Una línea puede ser persuasiva y aun así sonar prefabricada; en ese caso se reescribe desde los hechos del cliente.
 
-## 16. Decisiones editoriales pendientes
+## 17. Decisiones editoriales pendientes
 
 1. ¿Se enseñará un framework transversal con ejemplos separados para agencias y productoras, o dos versiones completas?
 2. ¿Contamos con VSL, llamadas y casos reales de estudiantes para validar lenguaje, objeciones y estructura antes de enseñar una plantilla final?
