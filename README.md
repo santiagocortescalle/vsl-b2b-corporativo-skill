@@ -6,7 +6,7 @@ El proceso recoge casos, promesa, mecanismo, preguntas de compra, datos de vanid
 
 ## Instalar en Codex
 
-Cuando este repositorio esté publicado, abre Codex y pega este mensaje:
+Abre Codex y pega este mensaje:
 
 > Usa $skill-installer para instalar la habilidad VSL B2B corporativo desde https://github.com/santiagocortescalle/vsl-b2b-corporativo-skill/tree/main/vsl-b2b-corporativo. Avísame cuando esté disponible.
 
