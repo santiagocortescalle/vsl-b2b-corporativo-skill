@@ -219,6 +219,16 @@ El skill debe preguntar por ticket histórico, mínimo rentable, amplitud de alc
 
 El skill será un **acompañante de diagnóstico y escritura**, no una plantilla que pide cuatro datos y completa huecos imaginando. Debe conversar por rondas breves, aprovechar lo ya dicho y mostrar al usuario lo que ha entendido antes de escribir. No necesita agotar una lista fija si la información ya está disponible.
 
+### Criterio consultivo durante todo el recorrido
+
+La entrevista también debe producir **asesoría**. El estudiante puede saber producir grandes piezas y aun así dudar sobre a qué comprador hablarle, cómo empaquetar el servicio, qué resultado prometer, qué prueba usar o si mostrar un precio. El skill debe reconocer esas dudas, ofrecer caminos concretos y recomendar el más defendible con la información disponible. También puede señalar una oportunidad de mejora aunque el estudiante haya contestado: por ejemplo, una oferta demasiado amplia para una sola landing o una promesa que confunde entregables con ingresos.
+
+Cuando falte una respuesta, el movimiento útil es: **resumir lo sabido → precisar la decisión → proponer dos o tres opciones pertinentes con ventajas y costos → recomendar una y explicar por qué → señalar qué evidencia la confirmaría**. Después hace la pregunta mínima necesaria o avanza con una hipótesis marcada como provisional. No repite preguntas que el estudiante ya dijo que no puede responder. Tampoco presenta opciones neutras sin criterio, como si todas fueran igual de adecuadas.
+
+Las sugerencias deben mostrar conocimiento del sector creativo. Para una productora con equipo y calendario estables puede tener sentido empaquetar producción recurrente; para una agencia con casos fuertes en campañas puede convenir una oferta de estrategia creativa y ejecución acotada. Esas son posibilidades a evaluar a partir de capacidad, márgenes, casos, ciclo de venta y necesidades del comprador. Si faltan métricas, el skill puede sugerir artefactos de proceso o casos anónimos autorizados y un plan de medición para próximos proyectos. Si falta un plazo defendible, puede mover la promesa a un hito operativo que la agencia sí controla.
+
+En decisiones de alto impacto —segmento, alcance, promesa, plazo, precio y CTA— el skill explicará qué gana y arriesga cada alternativa, hará una recomendación y dejará al estudiante la decisión final. Debe distinguir **hecho aportado**, **inferencia del consultor** y **dato por validar**. Una respuesta incompleta no paraliza el trabajo: permite construir un borrador útil con supuestos visibles, sin inventar clientes, resultados o garantías.
+
 | Ronda | Información que busca | Preguntas útiles |
 |---|---|---|
 | Agencia y oferta | Modelo de negocio, servicio, alcance, exclusiones, capacidad y razón de elección. | «¿Qué vendes exactamente en esta landing? ¿Qué partes cambian de cliente a cliente?» |
@@ -230,7 +240,7 @@ El skill será un **acompañante de diagnóstico y escritura**, no una plantilla
 
 **Datos de vanidad:** preguntar por vistas, premios, cantidad de proyectos, años de experiencia, marcas atendidas y tamaño de equipo cuando existan. Evaluar si aportan confianza o demuestran capacidad. Etiquetarlos correctamente: «2 millones de vistas» prueba distribución o exposición; por sí solo no prueba incremento de ventas. Un logo prueba relación con una marca solo si se tiene permiso y se explica qué hizo la agencia. Un premio puede ayudar a demostrar criterio creativo; no sustituye un resultado de negocio.
 
-Antes del guion, el skill debe entregar un resumen de una página con: negocio comprador, interlocutor principal, oferta, siete campos de la promesa, mecanismo, dependencias, pruebas disponibles, afirmaciones aún sin sustento, objeciones, elección de precio y CTA. Pedirá correcciones sobre hechos materiales. Después construirá guion y sugerencias visuales. Si faltan pruebas, propondrá una versión honesta basada en proceso y muestras reales; dejará visibles las lagunas para que el usuario las complete.
+Antes del guion, el skill debe entregar un resumen de una página con: negocio comprador, interlocutor principal, oferta, siete campos de la promesa, mecanismo, dependencias, pruebas disponibles, afirmaciones aún sin sustento, objeciones, elección de precio y CTA. Incluirá las recomendaciones clave y las decisiones todavía abiertas. Pedirá correcciones sobre hechos materiales. Después construirá guion y sugerencias visuales. Si faltan pruebas, propondrá una versión honesta basada en proceso y muestras reales; dejará visibles las lagunas para que el usuario las complete.
 
 ## 16. Revisión de escritura para evitar señales de IA
 
